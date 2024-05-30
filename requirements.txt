@@ -1,7 +1,7 @@
 filetype==1.2.0
 oauth2==1.9.0.post1
 pyrogram==2.0.106
-requests==2.31.0
+requests==2.32.3
 tgbot-ping==1.0.7
 tornado==6.4
 tgcrypto==1.2.5
